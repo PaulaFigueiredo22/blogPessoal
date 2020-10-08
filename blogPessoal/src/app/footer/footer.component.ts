@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { from } from 'rxjs';
 import { faFacebook} from '@fortawesome/free-brands-svg-icons'
 import { faInstagram} from '@fortawesome/free-brands-svg-icons'
 import { faLinkedin} from '@fortawesome/free-brands-svg-icons'
